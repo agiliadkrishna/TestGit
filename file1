@@ -1,6 +1,15 @@
 this is my first file
+<<<<<<< HEAD
 helloo
 hellooo
 helloooo
 hellooooo
 helloooooo
+||||||| merged common ancestors
+=======
+hello
+helloo
+hellooo
+helloooo
+hellooooo
+>>>>>>> d4a42caf89456c1aaa93dd2149ab7f39a9dca3fa
